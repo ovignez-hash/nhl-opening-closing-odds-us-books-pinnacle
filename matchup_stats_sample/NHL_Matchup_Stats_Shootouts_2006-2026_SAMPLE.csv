@@ -1,0 +1,7 @@
+Game_ID,NHL_Game_ID,Season,Stage,Date_ET,Sequence,Side,Team_Code,Shooter_ID,Shooter,Result,Shot_Type,Game_Winner,Home_SO_Goals_After,Away_SO_Goals_After
+20200803_WSH_TBL,2019030002,2019/2020,Playoffs,2020-08-03,1,Home,TBL,8475167,Victor Hedman,save,wrist,0,0,0
+20200803_WSH_TBL,2019030002,2019/2020,Playoffs,2020-08-03,2,Away,WSH,8471698,T.J. Oshie,goal,wrist,0,0,1
+20200803_WSH_TBL,2019030002,2019/2020,Playoffs,2020-08-03,3,Home,TBL,8478010,Brayden Point,goal,wrist,0,1,1
+20200803_WSH_TBL,2019030002,2019/2020,Playoffs,2020-08-03,4,Away,WSH,8475744,Evgeny Kuznetsov,save,backhand,0,1,1
+20200803_WSH_TBL,2019030002,2019/2020,Playoffs,2020-08-03,5,Home,TBL,8476453,Nikita Kucherov,goal,wrist,1,2,1
+20200803_WSH_TBL,2019030002,2019/2020,Playoffs,2020-08-03,6,Away,WSH,8473563,Nicklas Backstrom,save,wrist,0,2,1

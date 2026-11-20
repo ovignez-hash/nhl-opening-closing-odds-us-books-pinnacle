@@ -1,0 +1,41 @@
+Game_ID,NHL_Game_ID,Season,Stage,Date_ET,Side,Team_Code,Team,Opponent_Code,Opponent,Result,Goals,Opponent_Goals,Goals_P1,Goals_P2,Goals_P3,Goals_OT,Shootout_Goals,Shootout_Attempts,Shots,Shots_P1,Shots_P2,Shots_P3,Shots_OT,Missed_Shots,Attempts_Blocked,Shot_Attempts,EV_Goals,PP_Goals,SH_Goals,EN_Goals,PP_Opportunities,PIM,Hits,Blocked_Shots,Giveaways,Takeaways,Faceoff_Wins,Faceoffs,Faceoff_Pct
+20200801_WPG_CGY,2019030091,2019/2020,Playoffs,2020-08-01,Home,CGY,Calgary Flames,WPG,Winnipeg Jets,W,4,1,0,3,1,,,,33,9,18,6,,9,8,50,1,2,1,1,4,19,30,7,14,8,31,59,0.5254
+20200801_WPG_CGY,2019030091,2019/2020,Playoffs,2020-08-01,Away,WPG,Winnipeg Jets,CGY,Calgary Flames,L,1,4,1,0,0,,,,18,7,6,5,,20,7,45,1,0,0,0,7,13,34,8,18,7,28,59,0.4746
+20200803_WSH_TBL,2019030002,2019/2020,Playoffs,2020-08-03,Home,TBL,Tampa Bay Lightning,WSH,Washington Capitals,W,3,2,1,1,0,0,2,3,28,9,8,8,3,9,13,50,2,0,0,0,0,19,45,12,5,2,28,54,0.5185
+20200803_WSH_TBL,2019030002,2019/2020,Playoffs,2020-08-03,Away,WSH,Washington Capitals,TBL,Tampa Bay Lightning,SOL,2,3,0,2,0,0,1,3,33,7,12,11,3,11,12,56,1,1,0,0,4,11,44,13,13,5,26,54,0.4815
+20200928_TBL_DAL,2019030416,2019/2020,Playoffs,2020-09-28,Home,DAL,Dallas Stars,TBL,Tampa Bay Lightning,L,0,2,0,0,0,,,,22,4,4,14,,13,22,57,0,0,0,0,3,6,37,16,11,5,27,58,0.4655
+20200928_TBL_DAL,2019030416,2019/2020,Playoffs,2020-09-28,Away,TBL,Tampa Bay Lightning,DAL,Dallas Stars,W,2,0,1,1,0,,,,29,11,10,8,,10,16,55,1,1,0,0,3,6,40,22,9,5,31,58,0.5345
+20210113_PIT_PHI,2020020001,2020/2021,Regular Season,2021-01-13,Home,PHI,Philadelphia Flyers,PIT,Pittsburgh Penguins,W,6,3,2,1,3,,,,27,11,7,9,,8,11,46,4,2,0,0,3,6,31,13,10,6,29,50,0.58
+20210113_PIT_PHI,2020020001,2020/2021,Regular Season,2021-01-13,Away,PIT,Pittsburgh Penguins,PHI,Philadelphia Flyers,L,3,6,1,1,1,,,,34,14,9,11,,7,13,54,2,1,0,0,3,6,23,11,10,8,21,50,0.42
+20210517_BOS_WSH,2020030122,2020/2021,Playoffs,2021-05-17,Home,WSH,Washington Capitals,BOS,Boston Bruins,OTL,3,4,2,0,1,0,,,39,18,9,12,0,9,15,63,2,1,0,0,4,12,36,19,7,6,24,65,0.3692
+20210517_BOS_WSH,2020030122,2020/2021,Playoffs,2021-05-17,Away,BOS,Boston Bruins,WSH,Washington Capitals,W,4,3,2,0,1,1,,,48,18,15,14,1,22,19,89,4,0,0,0,2,16,30,15,4,9,41,65,0.6308
+20211012_SEA_VGK,2021020002,2021/2022,Regular Season,2021-10-12,Home,VGK,Vegas Golden Knights,SEA,Seattle Kraken,W,4,3,2,1,1,,,,30,6,17,7,,17,11,58,4,0,0,0,3,8,26,19,6,10,26,50,0.52
+20211012_SEA_VGK,2021020002,2021/2022,Regular Season,2021-10-12,Away,SEA,Seattle Kraken,VGK,Vegas Golden Knights,L,3,4,0,2,1,,,,31,9,14,8,,13,19,63,3,0,0,0,3,8,33,11,7,5,24,50,0.48
+20220626_COL_TBL,2021030416,2021/2022,Playoffs,2022-06-26,Home,TBL,Tampa Bay Lightning,COL,Colorado Avalanche,L,1,2,1,0,0,,,,23,10,9,4,,9,19,51,1,0,0,0,1,2,40,19,17,16,28,53,0.5283
+20220626_COL_TBL,2021030416,2021/2022,Playoffs,2022-06-26,Away,COL,Colorado Avalanche,TBL,Tampa Bay Lightning,W,2,1,0,2,0,,,,30,8,13,9,,16,19,65,2,0,0,0,1,2,37,19,9,13,25,53,0.4717
+20230102_PIT_BOS,2022020595,2022/2023,Regular Season,2023-01-02,Home,BOS,Boston Bruins,PIT,Pittsburgh Penguins,W,2,1,0,0,2,,,,29,10,9,10,,10,17,56,2,0,0,0,3,6,31,16,9,3,32,73,0.4384
+20230102_PIT_BOS,2022020595,2022/2023,Regular Season,2023-01-02,Away,PIT,Pittsburgh Penguins,BOS,Boston Bruins,L,1,2,0,1,0,,,,27,14,6,7,,14,16,57,1,0,0,0,3,6,19,17,7,11,41,73,0.5616
+20230613_FLA_VGK,2022030415,2022/2023,Playoffs,2023-06-13,Home,VGK,Vegas Golden Knights,FLA,Florida Panthers,W,9,3,2,4,3,,,,32,11,14,7,,20,12,64,8,0,1,1,1,2,27,26,23,14,37,67,0.5522
+20230613_FLA_VGK,2022030415,2022/2023,Playoffs,2023-06-13,Away,FLA,Florida Panthers,VGK,Vegas Golden Knights,L,3,9,0,1,2,,,,35,8,6,21,,15,26,76,3,0,0,0,1,2,27,12,14,7,30,67,0.4478
+20231114_ANA_NSH,2023020234,2023/2024,Regular Season,2023-11-14,Home,NSH,Nashville Predators,ANA,Anaheim Ducks,L,2,3,0,2,0,,,,30,11,10,9,,16,20,66,1,1,0,0,5,16,13,10,16,6,27,54,0.5
+20231114_ANA_NSH,2023020234,2023/2024,Regular Season,2023-11-14,Away,ANA,Anaheim Ducks,NSH,Nashville Predators,W,3,2,0,1,2,,,,20,5,8,7,,12,10,42,3,0,0,0,3,30,25,20,3,3,27,54,0.5
+20240116_ARI_CGY,2023020687,2023/2024,Regular Season,2024-01-16,Home,CGY,Calgary Flames,ARI,Arizona Coyotes,W,3,2,0,0,2,1,,,30,6,8,9,7,12,12,54,2,1,0,0,5,8,12,17,7,6,32,54,0.5926
+20240116_ARI_CGY,2023020687,2023/2024,Regular Season,2024-01-16,Away,ARI,Arizona Coyotes,CGY,Calgary Flames,OTL,2,3,0,1,1,0,,,25,3,11,10,1,19,19,63,2,0,0,0,3,12,17,12,4,15,22,54,0.4074
+20240624_EDM_FLA,2023030417,2023/2024,Playoffs,2024-06-24,Home,FLA,Florida Panthers,EDM,Edmonton Oilers,W,2,1,1,1,0,,,,21,7,10,4,,20,14,55,2,0,0,0,2,2,32,17,13,12,28,59,0.4746
+20240624_EDM_FLA,2023030417,2023/2024,Playoffs,2024-06-24,Away,EDM,Edmonton Oilers,FLA,Florida Panthers,L,1,2,1,0,0,,,,24,6,9,9,,16,18,58,1,0,0,0,1,4,21,13,9,7,31,59,0.5254
+20241008_CHI_UTA,2024020005,2024/2025,Regular Season,2024-10-08,Home,UTA,Utah Hockey Club,CHI,Chicago Blackhawks,W,5,2,2,1,2,,,,27,8,8,11,,19,17,63,5,0,0,1,1,11,23,23,22,1,30,60,0.5
+20241008_CHI_UTA,2024020005,2024/2025,Regular Season,2024-10-08,Away,CHI,Chicago Blackhawks,UTA,Utah Hockey Club,L,2,5,0,1,1,,,,26,3,11,12,,18,23,67,2,0,0,0,3,17,31,12,16,5,30,60,0.5
+20250314_DET_CAR,2024021049,2024/2025,Regular Season,2025-03-14,Home,CAR,Carolina Hurricanes,DET,Detroit Red Wings,W,4,2,0,3,1,,,,32,9,12,11,,21,30,83,4,0,0,1,2,4,5,15,17,5,39,59,0.661
+20250314_DET_CAR,2024021049,2024/2025,Regular Season,2025-03-14,Away,DET,Detroit Red Wings,CAR,Carolina Hurricanes,L,2,4,1,0,1,,,,26,6,6,14,,14,15,55,2,0,0,0,2,4,22,27,17,5,20,59,0.339
+20250617_EDM_FLA,2024030416,2024/2025,Playoffs,2025-06-17,Home,FLA,Florida Panthers,EDM,Edmonton Oilers,W,5,1,2,1,2,,,,25,9,9,7,,12,15,52,5,0,0,2,0,2,28,17,18,5,28,53,0.5283
+20250617_EDM_FLA,2024030416,2024/2025,Playoffs,2025-06-17,Away,EDM,Edmonton Oilers,FLA,Florida Panthers,L,1,5,0,0,1,,,,29,10,10,9,,11,18,58,1,0,0,0,0,12,29,15,10,1,25,53,0.4717
+20251007_CHI_FLA,2025020001,2025/2026,Regular Season,2025-10-07,Home,FLA,Florida Panthers,CHI,Chicago Blackhawks,W,3,2,2,0,1,,,,37,17,9,11,,13,19,69,2,1,0,0,2,11,28,15,17,3,41,70,0.5857
+20251007_CHI_FLA,2025020001,2025/2026,Regular Season,2025-10-07,Away,CHI,Chicago Blackhawks,FLA,Florida Panthers,L,2,3,1,1,0,,,,19,3,11,5,,13,18,50,2,0,0,0,3,9,27,16,19,4,29,70,0.4143
+20251217_LAK_FLA,2025020529,2025/2026,Regular Season,2025-12-17,Home,FLA,Florida Panthers,LAK,Los Angeles Kings,W,3,2,0,2,1,,,,29,8,13,8,,11,17,57,2,1,0,0,4,8,28,21,11,5,27,58,0.4655
+20251217_LAK_FLA,2025020529,2025/2026,Regular Season,2025-12-17,Away,LAK,Los Angeles Kings,FLA,Florida Panthers,L,2,3,1,0,1,,,,29,8,10,11,,14,23,66,1,1,0,0,4,8,16,15,12,5,31,58,0.5345
+20260614_CAR_VGK,2025030416,2025/2026,Playoffs,2026-06-14,Home,VGK,Vegas Golden Knights,CAR,Carolina Hurricanes,L,0,3,0,0,0,,,,22,11,3,8,,15,13,50,0,0,0,0,3,6,39,7,19,2,30,63,0.4762
+20260614_CAR_VGK,2025030416,2025/2026,Playoffs,2026-06-14,Away,CAR,Carolina Hurricanes,VGK,Vegas Golden Knights,W,3,0,1,1,1,,,,23,8,8,7,,13,8,44,3,0,0,1,3,6,32,12,16,10,33,63,0.5238
+20261024_TOR_EDM,2026020176,2026/2027,Regular Season,2026-10-24,Home,EDM,Edmonton Oilers,TOR,Toronto Maple Leafs,L,2,7,0,1,1,,,,32,13,9,10,,21,15,68,1,1,0,0,3,11,42,14,16,3,25,50,0.5
+20261024_TOR_EDM,2026020176,2026/2027,Regular Season,2026-10-24,Away,TOR,Toronto Maple Leafs,EDM,Edmonton Oilers,W,7,2,1,2,4,,,,31,8,14,9,,13,14,58,6,1,0,1,1,15,23,11,12,6,25,50,0.5
+20261031_TOR_VAN,2026020224,2026/2027,Regular Season,2026-10-31,Home,VAN,Vancouver Canucks,TOR,Toronto Maple Leafs,L,2,4,1,0,1,,,,28,13,6,9,,12,22,62,1,1,0,0,4,4,26,14,10,1,21,54,0.3889
+20261031_TOR_VAN,2026020224,2026/2027,Regular Season,2026-10-31,Away,TOR,Toronto Maple Leafs,VAN,Vancouver Canucks,W,4,2,1,2,1,,,,28,9,13,6,,12,14,54,4,0,0,1,2,8,31,21,11,3,33,54,0.6111
